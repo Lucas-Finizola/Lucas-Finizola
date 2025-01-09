@@ -4,7 +4,7 @@
 
 Tenho 22 anos, sou apaixonado por tecnologia e sempre busco aprender mais. Concluí o ensino médio com técnico em manutenção e suporte de computadores e atualmente foco na área de dados, mas também exploro diversas tecnologias e linguagens de programação.
 
-🌟 Meu objetivo é compartilhar conhecimento e contribuir para projetos impactantes na área de tecnologia.
+🌟 Meu objetivo é adiquirir e compartilhar conhecimento, além contribuir para projetos impactantes na área de tecnologia.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/lucas-leite-finizola-costa-228b3a184/" target="_blank">
