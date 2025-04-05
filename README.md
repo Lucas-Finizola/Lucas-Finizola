@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação`**
 
-Tenho 22 anos, sou apaixonado por tecnologia e sempre busco aprender mais. Concluí o ensino médio com técnico em manutenção e suporte de computadores e atualmente foco na área de dados, mas também exploro diversas tecnologias e linguagens de programação.
+Sempre fui interrado pela tecnologia, buscando sempre entender como e porque aquilo funciona. Concluí o ensino médio com técnico em manutenção e suporte de computadores e atualmente faço faculdade na área, busco explorar as mais diversas tecnologias e linguagens de programação.
 
 🌟 Meu objetivo é adiquirir e compartilhar conhecimento, além contribuir para projetos impactantes na área de tecnologia.
 
