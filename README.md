@@ -2,7 +2,7 @@
 
 **`Estudante de Ciências da Computação`**
 
-Sempre fui interrado pela tecnologia, buscando sempre entender como e porque aquilo funciona. Concluí o ensino médio com técnico em manutenção e suporte de computadores e atualmente faço faculdade na área, busco explorar as mais diversas tecnologias e linguagens de programação.
+Sempre fui interessado pela tecnologia, buscando sempre entender como e porque aquilo funciona. Concluí o ensino médio com técnico em manutenção e suporte de computadores e atualmente faço faculdade na área, busco explorar as mais diversas tecnologias e linguagens de programação.
 
 🌟 Meu objetivo é adiquirir e compartilhar conhecimento, além contribuir para projetos impactantes na área de tecnologia.
 
