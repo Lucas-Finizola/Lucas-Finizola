@@ -1,10 +1,8 @@
 # 👨‍💻 Olá, eu sou o Lucas!
 
-**`Estudante de Ciências da Computação`**
+**Estudante de Ciência da Computação**, com formação técnica em manutenção e suporte de computadores. Tenho interesse em desenvolvimento de software, ciência de dados e soluções que geram impacto real. Estou sempre em busca de novos conhecimentos, explorando linguagens, ferramentas e boas práticas de programação.
 
-Sempre fui apaixonado por tecnologia, buscando entender como e por que as coisas funcionam. Concluí o ensino médio com técnico em manutenção e suporte de computadores e atualmente curso Ciência da Computação. Estou sempre explorando novas tecnologias e linguagens de programação.
-
-🌟 Meu objetivo é adquirir e compartilhar conhecimento, além de contribuir com projetos impactantes na área de tecnologia.
+🎯 Meu objetivo é compartilhar conhecimento e contribuir com projetos que façam a diferença.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/lucas-leite-finizola-costa-228b3a184/" target="_blank">
@@ -40,9 +38,9 @@ Sempre fui apaixonado por tecnologia, buscando entender como e por que as coisas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" title="Azure"/>
 </div>
 
